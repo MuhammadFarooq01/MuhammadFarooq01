@@ -1,8 +1,1 @@
-- 👋 Hi, I’m @thephpscripter
-- 👀 I’m interested in web development and software engineering.
-- 🌱 I’m currently learning backend development with the MERN stack (MongoDB, Express, React, Node.js) and SQL. I have also started diving into Electron for desktop applications.
-- 💞️ I’m looking to collaborate on full-stack web projects, especially those involving React and Node.js.
-- 📫 How to reach me: WhatsApp me at +92 322 1922030
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I enjoy solving complex coding challenges and I'm always up for a good programming meme.
-
+👋 Hi, I’m @thephpscripter, interested in web development and software engineering. Currently, I'm learning backend development with the MERN stack and SQL, and exploring Electron for desktop applications. I am open to collaborating on full-stack web projects, particularly those involving React and Node.js. You can reach me via WhatsApp at +92 322 1922030, or connect with me on Instagram: @_far__q.
