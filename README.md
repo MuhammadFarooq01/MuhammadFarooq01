@@ -30,7 +30,6 @@ I'm a dedicated backend developer specializing in the MERN stack and SQL, with a
 - **Languages**: JavaScript, HTML, CSS
 - **Frameworks**: React.js, Express.js, Electron.js
 - **Databases**: MongoDB, SQL
-- **Tools**: Git, npm, Webpack
 
 ## 🎯 Goals
 
