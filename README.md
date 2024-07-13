@@ -25,10 +25,6 @@ I'm a dedicated backend developer specializing in the MERN stack and SQL, with a
 - **WhatsApp**: +92 322 1922030
 - **Instagram**: [@_far__q](https://www.instagram.com/_far__q)
 
-## 📊 GitHub Stats
-
-![Muhammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadFarooq01&show_icons=true&count_private=true&theme=tokyonight)
-
 ## 🛠️ Skills
 
 - **Languages**: JavaScript, HTML, CSS
