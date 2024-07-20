@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Farooq
 
-I'm a dedicated backend developer specializing in the MERN stack and SQL, with a keen interest in desktop application development using Electron. I'm passionate about creating efficient, scalable, and user-friendly applications.
+I'm a  backend developer specializing in the MERN stack and SQL, with a keen interest in desktop application development using Electron.
 
 ## 🔭 What I'm Working On
 
