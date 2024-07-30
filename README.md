@@ -1,4 +1,4 @@
-# Hi, I'm Mehran Iqbal
+# Hi, I'm Muhammad Farooq
 
 I'm a  backend developer specializing in the MERN stack and SQL, with a keen interest in desktop application development using Electron.
 
