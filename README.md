@@ -20,10 +20,6 @@ I'm a  backend developer specializing in the MERN stack and SQL, with a keen int
 - Desktop applications with Electron
 - Innovative projects that leverage modern web technologies
 
-## 📫 How to Reach Me
-
-- **WhatsApp**: +92 322 1922030
-- **Instagram**: [@_far__q](https://www.instagram.com/_far__q)
 
 ## 🛠️ Skills
 
